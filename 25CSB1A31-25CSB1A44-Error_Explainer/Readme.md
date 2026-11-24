@@ -52,7 +52,7 @@
 
 ### 6. Screen Recordings (`Screen Recordings/`)
 - `Screen Recordings/Mid.mp4` (`91.91 MB`) — Mid evaluation demo screen recording (uploaded in repository)
-- **End Evaluation Screen Recording (`End.mp4`, `222.36 MB`):** Exceeds GitHub's `100 MB` single-file limit — Google Drive Link (NITW access): `<ADD_GOOGLE_DRIVE_LINK_FOR_END_MP4_HERE>`
+- **End Evaluation Screen Recording (`End.mp4`, `222.36 MB`):** Exceeds GitHub's `100 MB` single-file limit — Google Drive Link (NITW access): `[<ADD_GOOGLE_DRIVE_LINK_FOR_END_MP4_HERE>](https://drive.google.com/file/d/1PyuFA0qMSkKPOBW38A2d6_lBozMmcZ1P/view?usp=sharing)`
 
 ### 7. Configuration & Assets
 - `requirements.txt`, `pytest.ini`, `.env.example`, `.gitattributes`, `.gitignore`, `.vscode/settings.json`, `assets/`, `end_eval_assets/`
